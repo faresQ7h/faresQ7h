@@ -83,18 +83,6 @@ Desktop inventory management software supporting products, customers, orders, re
 
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css,dotnet,git,github,linux,postgres,vscode)
 
-/*
----
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=faresQ7h&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faresQ7h&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-*/
-
 ---
 
 ## Currently Learning
