@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Fares 👋
 
-<!--
-**faresQ7h/faresQ7h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Informatics Student @ CZU Prague
 
-Here are some ideas to get you started:
+Student @ 42 Prague
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical software with a focus on:
+
+- Backend Development
+- Systems Programming
+- Databases
+- Linux
+
+---
+
+## Featured Projects
+
+🚀 AI Job Search Assistant *(Coming Soon)*
+
+🌐 Portfolio Website *(Coming Soon)*
+
+🐚 Minishell
+
+🏨 Hotel Booking Database
+
+📦 Inventory Management System
+
+---
+
+## Tech Stack
+
+C • C++ • C#
+
+Python
+
+ASP.NET
+
+PostgreSQL
+
+Linux
+
+Git
