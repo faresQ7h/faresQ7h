@@ -49,33 +49,27 @@ A personal portfolio showcasing my projects, technical skills, and software engi
 
 ---
 
-## 🐚 Minishell
+## 🐚 [Minishell](https://github.com/faresQ7h/minishell-42Prague)
 
 **C • Linux • POSIX**
 
-A Unix shell built in C supporting:
-
-- Parsing
-- Pipes
-- Redirections
-- Signals
-- Process Management
+A Unix shell implementing parsing, pipes, redirections, signals, and process management.
 
 ---
 
-## 🏨 Hotel Booking Database
+## 🏨 [Hotel Booking Database](https://github.com/faresQ7h/hotel-booking-system-database)
 
-> PostgreSQL • SQL
+**PostgreSQL • SQL**
 
 A fully normalized relational database featuring ER modeling, advanced SQL queries, constraints, and booking management.
 
 ---
 
-## 📦 Inventory Management System
+## 📦 [Inventory Management System](https://github.com/faresQ7h/business-inventory-management-app-winforms-csharp)
 
-> C# • WinForms
+**C# • WinForms**
 
-Desktop inventory management software supporting products, customers, orders, reporting, and JSON data persistence.
+Desktop inventory management software supporting products, customers, orders, reporting, and JSON persistence.
 
 ---
 
