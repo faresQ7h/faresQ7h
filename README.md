@@ -2,9 +2,7 @@
 
 # Fares Mohamed
 
-### Software Engineering Student
-
-**Backend Development • Systems Programming • Linux**
+### Software Engineering Student | Backend & Systems Programming
 
 Informatics Student @ Czech University of Life Sciences Prague  
 Student @ 42 Prague
@@ -25,9 +23,11 @@ Building practical software with a focus on clean architecture, performance, and
 
 I'm an Informatics student at the Czech University of Life Sciences Prague and a student at 42 Prague.
 
-I enjoy building software that solves real problems—from systems programming in C to backend applications using C# and ASP.NET.
+I enjoy building practical software with a strong interest in backend development, systems programming, databases, and networking.
 
-My interests include backend engineering, Linux systems, networking, databases, and software architecture. I'm currently preparing for the CCNA certification while continuing to strengthen my software engineering skills through practical projects.
+Through university projects, personal projects, and the 42 curriculum, I've gained hands-on experience designing databases, developing desktop and web applications, and building Unix systems in C.
+
+I'm currently preparing for the CCNA certification while expanding my knowledge of Docker and cloud technologies.
 
 ---
 
@@ -51,9 +51,15 @@ A personal portfolio showcasing my projects, technical skills, and software engi
 
 ## 🐚 Minishell
 
-> C • Linux • POSIX
+**C • Linux • POSIX**
 
-A Unix shell implementing parsing, pipes, redirections, signals, and process management.
+A Unix shell built in C supporting:
+
+- Parsing
+- Pipes
+- Redirections
+- Signals
+- Process Management
 
 ---
 
@@ -73,25 +79,11 @@ Desktop inventory management software supporting products, customers, orders, re
 
 ---
 
-# Tech Stack
+## Tech Stack
 
-### Languages
+![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css,dotnet,git,github,linux,postgres,vscode)
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css)
-
-### Frameworks & Tools
-
-![My Skills](https://skillicons.dev/icons?i=dotnet,git,github,linux,postgres)
-
----
-
-# Currently Learning
-
-- CCNA
-- Computer Networking
-- Docker
-- Cloud Fundamentals
-
+/*
 ---
 
 <p align="center">
@@ -101,14 +93,7 @@ Desktop inventory management software supporting products, customers, orders, re
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faresQ7h&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
-
----
-
-# Languages
-
-🇪🇬 Arabic — Native
-
-🇬🇧 English — Professional Working Proficiency
+*/
 
 ---
 
@@ -118,3 +103,11 @@ Desktop inventory management software supporting products, customers, orders, re
 - 🌐 Computer Networking
 - 🐳 Docker
 - ☁️ Cloud Fundamentals
+
+---
+
+## Languages
+
+![Arabic](https://img.shields.io/badge/Arabic-Native-009639?style=flat-square)
+
+![English](https://img.shields.io/badge/English-Professional-0052CC?style=flat-square)
