@@ -14,8 +14,8 @@ Building practical software with a focus on clean architecture, performance, and
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-111111?style=for-the-badge)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fares-mohamed-it/)
+[![Email](https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farisreda9945@gmail.com)
 
 </div>
 
@@ -94,13 +94,11 @@ Desktop inventory management software supporting products, customers, orders, re
 
 ---
 
-# GitHub Statistics
-
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=faresQ7h&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=faresQ7h&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faresQ7h&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faresQ7h&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
@@ -114,10 +112,9 @@ Desktop inventory management software supporting products, customers, orders, re
 
 ---
 
-# Connect
+## Currently Learning
 
-💼 LinkedIn
-
-🌐 Portfolio *(Coming Soon)*
-
-📧 farisreda9945@gmail.com
+- 📚 CCNA
+- 🌐 Computer Networking
+- 🐳 Docker
+- ☁️ Cloud Fundamentals
