@@ -27,21 +27,22 @@ Building reliable software with a passion for backend development, cloud technol
 
 I'm an Informatics student at the **Czech University of Life Sciences Prague** and a student at **42 Prague**, passionate about building reliable backend applications, cloud solutions, and system-level software.
 
-Through university coursework, personal projects, and the 42 curriculum, I've gained practical experience developing desktop and web applications, designing relational databases, working with Linux systems, and building software in C, C#, Python, and ASP.NET Core.
+Through university coursework, personal projects, and the 42 curriculum, I've gained practical experience developing desktop and web applications, designing relational databases, building Unix applications in C, and creating modern backend solutions with ASP.NET Core.
 
-Recently, I built and deployed my portfolio website to **Microsoft Azure**, using **GitHub Actions** to create a fully automated **CI/CD pipeline** secured with **OpenID Connect (OIDC)** authentication.
+Most recently, I built and deployed my personal portfolio to **Microsoft Azure** and connected it to my custom domain, **faresm.dev**. The project uses a fully automated **GitHub Actions CI/CD pipeline** secured with **OpenID Connect (OIDC)** authentication for safe and seamless deployments.
 
-I'm currently expanding my knowledge of **Docker**, **Cloud Computing**, and **Computer Networking** while preparing for the **Cisco CCNA** certification.
+I'm currently expanding my knowledge of **Cloud Computing**, **Docker**, and **Computer Networking** while preparing for the **Cisco CCNA** certification.
 
 ---
 
 ## 🚀 Highlights
 
-- 🚀 Built and deployed an ASP.NET Core portfolio on Microsoft Azure
-- ⚙️ Automated deployments with GitHub Actions CI/CD
-- 🔐 Implemented secure cloud deployment using OpenID Connect (OIDC)
+- 🚀 Deployed an ASP.NET Core portfolio to Microsoft Azure
+- 🌐 Connected the application to my custom domain **faresm.dev**
+- ⚙️ Built a complete CI/CD pipeline using GitHub Actions
+- 🔐 Implemented secure deployments with OpenID Connect (OIDC)
 - 💻 Student at both CZU Prague and 42 Prague
-- 📚 Currently studying CCNA, Docker, Azure, and Cloud Technologies
+- 📚 Currently studying Docker, Azure, Cloud Technologies, and CCNA
 
 ---
 
@@ -51,11 +52,11 @@ I'm currently expanding my knowledge of **Docker**, **Cloud Computing**, and **C
 
 **ASP.NET Core • Azure • GitHub Actions • CI/CD**
 
-A responsive portfolio website built with ASP.NET Core and hosted on my custom domain **faresm.dev**. The application is deployed to Microsoft Azure through a fully automated GitHub Actions CI/CD pipeline secured with OpenID Connect (OIDC).
+A responsive portfolio website built with **ASP.NET Core** and hosted on **faresm.dev**. The application is deployed to **Microsoft Azure** through a fully automated **GitHub Actions CI/CD pipeline** secured with **OpenID Connect (OIDC)** authentication.
 
 🔗 **Live Demo**
 
-https://faresm.dev
+**https://faresm.dev**
 
 ---
 
@@ -63,7 +64,7 @@ https://faresm.dev
 
 **Python • n8n • AI • Automation**
 
-An AI-powered workflow that automatically discovers software engineering opportunities, analyzes job descriptions, generates tailored CVs and cover letters, tracks applications, and sends notifications about relevant positions.
+An AI-powered assistant that automatically discovers software engineering internships, analyzes job descriptions, generates tailored CVs and cover letters, tracks applications, and notifies me about relevant opportunities.
 
 ---
 
@@ -136,21 +137,21 @@ Desktop inventory management software supporting customers, products, orders, re
 
 ## 🌍 Languages
 
-- 🇪🇬 Arabic — Native
-- 🇬🇧 English — Professional Working Proficiency
+- 🇪🇬 **Arabic** — Native
+- 🇬🇧 **English** — Professional Working Proficiency
 
 ---
 
 ## 🤝 Let's Connect
 
 🌐 **Portfolio**  
-https://faresm.dev
+**https://faresm.dev**
 
 💼 **LinkedIn**  
-https://www.linkedin.com/in/fares-mohamed-it/
+**https://www.linkedin.com/in/fares-mohamed-it/**
 
 📧 **Email**  
-hello@faresm.dev
+**hello@faresm.dev**
 
 ---
 
@@ -162,7 +163,7 @@ I'm currently seeking software engineering internships and student opportunities
 
 <div align="center">
 
-### *Building reliable software through continuous learning and practical engineering.*
+### Building reliable software through continuous learning and practical engineering.
 
 ⭐ Thanks for visiting my profile!
 
