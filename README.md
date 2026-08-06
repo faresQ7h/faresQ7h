@@ -11,9 +11,9 @@ Building reliable software with a passion for backend development, cloud technol
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-success?style=for-the-badge)](https://fares-portfolio-cbezd6avguebayh2.switzerlandnorth-01.azurewebsites.net)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-success?style=for-the-badge)](https://faresm.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fares-mohamed-it/)
-[![Email](https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farisreda9945@gmail.com)
+[![Email](https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@faresm.dev)
 
 <br>
 
