@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Fares Mohamed
 
-### Backend Developer • Cloud • Systems
+### Software Engineering Student | Backend Developer | Cloud & Systems
 
 🎓 **Informatics Student** @ Czech University of Life Sciences Prague  
 🎓 **Student** @ 42 Prague
@@ -25,27 +25,23 @@ Building reliable software with a passion for backend development, cloud technol
 
 ## 💡 About Me
 
-I'm an Informatics student at the **Czech University of Life Sciences Prague** and a student at **42 Prague**.
+I'm an Informatics student at the **Czech University of Life Sciences Prague** and a student at **42 Prague**, passionate about building reliable backend applications, cloud solutions, and system-level software.
 
-I enjoy building practical software with a strong focus on backend engineering, cloud computing, databases, and systems programming. Through university projects, personal projects, and the 42 curriculum, I've gained hands-on experience developing web and desktop applications, designing relational databases, and building Unix applications in C.
+Through university coursework, personal projects, and the 42 curriculum, I've gained practical experience developing desktop and web applications, designing relational databases, working with Linux systems, and building software in C, C#, Python, and ASP.NET Core.
 
-Recently, I deployed my **ASP.NET Core** portfolio to **Microsoft Azure** using **GitHub Actions**, implementing a secure **CI/CD pipeline** with **OpenID Connect (OIDC)** authentication.
+Recently, I built and deployed my portfolio website to **Microsoft Azure**, using **GitHub Actions** to create a fully automated **CI/CD pipeline** secured with **OpenID Connect (OIDC)** authentication.
 
-I'm currently expanding my knowledge of **Docker**, **Microsoft Azure**, and **Computer Networking** while preparing for the **CCNA** certification.
+I'm currently expanding my knowledge of **Docker**, **Cloud Computing**, and **Computer Networking** while preparing for the **Cisco CCNA** certification.
 
 ---
 
 ## 🚀 Highlights
 
-✔️ ASP.NET Core Portfolio deployed to Microsoft Azure
-
-✔️ Automated CI/CD using GitHub Actions
-
-✔️ Secure deployment with OpenID Connect (OIDC)
-
-✔️ Student at both CZU Prague & 42 Prague
-
-✔️ Currently studying CCNA, Docker & Cloud Technologies
+- 🚀 Built and deployed an ASP.NET Core portfolio on Microsoft Azure
+- ⚙️ Automated deployments with GitHub Actions CI/CD
+- 🔐 Implemented secure cloud deployment using OpenID Connect (OIDC)
+- 💻 Student at both CZU Prague and 42 Prague
+- 📚 Currently studying CCNA, Docker, Azure, and Cloud Technologies
 
 ---
 
@@ -55,11 +51,11 @@ I'm currently expanding my knowledge of **Docker**, **Microsoft Azure**, and **C
 
 **ASP.NET Core • Azure • GitHub Actions • CI/CD**
 
-Responsive portfolio website deployed to Microsoft Azure with automated deployments through GitHub Actions and secure authentication using OpenID Connect (OIDC).
+A responsive portfolio website built with ASP.NET Core and hosted on my custom domain **faresm.dev**. The application is deployed to Microsoft Azure through a fully automated GitHub Actions CI/CD pipeline secured with OpenID Connect (OIDC).
 
 🔗 **Live Demo**
 
-https://fares-portfolio-cbezd6avguebayh2.switzerlandnorth-01.azurewebsites.net
+https://faresm.dev
 
 ---
 
@@ -67,7 +63,7 @@ https://fares-portfolio-cbezd6avguebayh2.switzerlandnorth-01.azurewebsites.net
 
 **Python • n8n • AI • Automation**
 
-An AI-powered assistant that automatically searches internship opportunities, analyzes job descriptions, generates tailored CVs and cover letters, tracks applications, and sends notifications about relevant positions.
+An AI-powered workflow that automatically discovers software engineering opportunities, analyzes job descriptions, generates tailored CVs and cover letters, tracks applications, and sends notifications about relevant positions.
 
 ---
 
@@ -101,19 +97,17 @@ Desktop inventory management software supporting customers, products, orders, re
 
 ---
 
-## 🛠 Technology Stack
+## 🛠️ Technology Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css,dotnet,git,github,linux,postgres,azure,docker,vscode&perline=7"/>
-
 </p>
 
 ---
 
 ## 📖 Currently Learning
 
-- 🌐 CCNA
+- 🌐 Cisco CCNA
 - ☁️ Microsoft Azure
 - 🐳 Docker
 - ⚙️ GitHub Actions
@@ -122,7 +116,7 @@ Desktop inventory management software supporting customers, products, orders, re
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
 
@@ -142,28 +136,27 @@ Desktop inventory management software supporting customers, products, orders, re
 
 ## 🌍 Languages
 
-🇪🇬 **Arabic** — Native
-
-🇬🇧 **English** — Professional Working Proficiency
+- 🇪🇬 Arabic — Native
+- 🇬🇧 English — Professional Working Proficiency
 
 ---
 
 ## 🤝 Let's Connect
 
 🌐 **Portfolio**  
-https://fares-portfolio-cbezd6avguebayh2.switzerlandnorth-01.azurewebsites.net
+https://faresm.dev
 
 💼 **LinkedIn**  
 https://www.linkedin.com/in/fares-mohamed-it/
 
 📧 **Email**  
-farisreda9945@gmail.com
+hello@faresm.dev
 
 ---
 
 ## 🎯 Open to Opportunities
 
-I'm currently seeking **Software Engineering**, **Backend Development**, **Cloud**, and **AI** internship opportunities where I can contribute while continuing to grow as an engineer.
+I'm currently seeking software engineering internships and student opportunities in **Backend Development**, **Cloud Computing**, **Systems Programming**, and **AI**, where I can contribute, continue learning, and grow as a software engineer.
 
 ---
 
