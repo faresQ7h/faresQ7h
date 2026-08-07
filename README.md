@@ -1,170 +1,289 @@
-<div align="center">
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2347,100:1E5387&height=220&section=header&text=Fares%20Mohamed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Cloud%20Enthusiast%20|%20Systems%20Programmer&descAlignY=58" />
+</p>
 
-# 👋 Hi, I'm Fares Mohamed
+<h1 align="center">Hi, I'm Fares Mohamed 👋</h1>
 
-### Software Engineering Student | Backend Developer | Cloud & Systems
+<h3 align="center">
+Backend Developer • Cloud Enthusiast • Systems Programmer
+</h3>
 
-🎓 **Informatics Student** @ Czech University of Life Sciences Prague  
-🎓 **Student** @ 42 Prague
+<p align="center">
+Building reliable software with <strong>C#</strong>, <strong>ASP.NET Core</strong>, <strong>C</strong>, <strong>Linux</strong>, and <strong>Microsoft Azure</strong>.
+</p>
 
-Building reliable software with a passion for backend development, cloud technologies, and systems programming.
+<p align="center">
+<a href="https://faresm.dev">
+<img src="https://img.shields.io/badge/Portfolio-faresm.dev-0B2347?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
-<br>
+<a href="https://www.linkedin.com/in/fares-mohamed-it/">
+<img src="https://img.shields.io/badge/LinkedIn-Fares%20Mohamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-success?style=for-the-badge)](https://faresm.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fares-mohamed-it/)
-[![Email](https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@faresm.dev)
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=faresQ7h&style=for-the-badge&color=0e75b6"/>
-
-</div>
-
----
-
-## 💡 About Me
-
-I'm an Informatics student at the **Czech University of Life Sciences Prague** and a student at **42 Prague**, passionate about building reliable backend applications, cloud solutions, and system-level software.
-
-Through university coursework, personal projects, and the 42 curriculum, I've gained practical experience developing desktop and web applications, designing relational databases, building Unix applications in C, and creating modern backend solutions with ASP.NET Core.
-
-Most recently, I built and deployed my personal portfolio to **Microsoft Azure** and connected it to my custom domain, **faresm.dev**. The project uses a fully automated **GitHub Actions CI/CD pipeline** secured with **OpenID Connect (OIDC)** authentication for safe and seamless deployments.
-
-I'm currently expanding my knowledge of **Cloud Computing**, **Docker**, and **Computer Networking** while preparing for the **Cisco CCNA** certification.
+<a href="mailto:hello@faresm.dev">
+<img src="https://img.shields.io/badge/Email-hello@faresm.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
 ---
 
-## 🚀 Highlights
+# 🚀 Current Focus
 
-- 🚀 Deployed an ASP.NET Core portfolio to Microsoft Azure
-- 🌐 Connected the application to my custom domain **faresm.dev**
-- ⚙️ Built a complete CI/CD pipeline using GitHub Actions
-- 🔐 Implemented secure deployments with OpenID Connect (OIDC)
-- 💻 Student at both CZU Prague and 42 Prague
-- 📚 Currently studying Docker, Azure, Cloud Technologies, and CCNA
+- 🔭 Building backend applications with **ASP.NET Core**
+- ☁️ Learning **Azure**, **Docker**, and **Cloud Architecture**
+- 🌐 Preparing for the **Cisco CCNA** certification
+- 🤖 Developing an AI-powered Job Search Assistant
+- 📚 Studying at **Czech University of Life Sciences Prague** and **42 Prague**
 
 ---
 
-## 📂 Featured Projects
+# 👨‍💻 About
 
-### 🌐 Portfolio Website
+- 🎓 Informatics Student @ **Czech University of Life Sciences Prague**
+- 🎓 Student @ **42 Prague**
+- 💻 Passionate about **Backend Development**, **Cloud Computing**, and **Systems Programming**
+- ☁️ Built and deployed an ASP.NET Core application to **Microsoft Azure**
+- ⚙️ Created a complete **GitHub Actions CI/CD pipeline**
+- 🔐 Secured deployments using **OpenID Connect (OIDC)**
+- 🌐 Portfolio: **https://faresm.dev**
+
+---
+
+# 🌟 Featured Projects
+
+## 🌐 Portfolio Website
 
 **ASP.NET Core • Azure • GitHub Actions • CI/CD**
 
-A responsive portfolio website built with **ASP.NET Core** and hosted on **faresm.dev**. The application is deployed to **Microsoft Azure** through a fully automated **GitHub Actions CI/CD pipeline** secured with **OpenID Connect (OIDC)** authentication.
+A modern portfolio website hosted on **Microsoft Azure** with a fully automated deployment pipeline using **GitHub Actions** and **OpenID Connect (OIDC)** authentication.
 
-🔗 **Live Demo**
+### Highlights
 
-**https://faresm.dev**
+- ✅ Microsoft Azure Deployment
+- ✅ GitHub Actions CI/CD
+- ✅ OpenID Connect (OIDC)
+- ✅ Custom Domain (faresm.dev)
+- ✅ Responsive Design
+
+🔗 **Live:** https://faresm.dev
 
 ---
 
-### 🤖 AI Job Search Assistant *(In Progress)*
+## 🤖 AI Job Search Assistant *(In Progress)*
 
 **Python • n8n • AI • Automation**
 
-An AI-powered assistant that automatically discovers software engineering internships, analyzes job descriptions, generates tailored CVs and cover letters, tracks applications, and notifies me about relevant opportunities.
+An AI-powered assistant that automatically:
+
+- Finds internship opportunities
+- Analyzes job descriptions
+- Generates tailored CVs
+- Creates personalized cover letters
+- Tracks applications
+- Sends notifications for relevant jobs
 
 ---
 
-### 🐚 Minishell
+## 🐚 Minishell
 
 **C • Linux • POSIX**
 
-A Unix shell implementing parsing, pipelines, redirections, signals, environment variables, and process management.
+A Unix shell implementing:
+
+- Parsing
+- Pipelines
+- Redirections
+- Environment Variables
+- Process Management
+- Signal Handling
 
 🔗 https://github.com/faresQ7h/minishell-42Prague
 
 ---
 
-### 🏨 Hotel Booking Database
+## 🏨 Hotel Booking Database
 
 **PostgreSQL • SQL**
 
-A fully normalized relational database featuring ER modeling, constraints, booking management, and advanced SQL queries.
+A fully normalized relational database featuring:
+
+- ER Modeling
+- Constraints
+- Booking Management
+- Advanced SQL Queries
 
 🔗 https://github.com/faresQ7h/hotel-booking-system-database
 
 ---
 
-### 📦 Inventory Management System
+## 📦 Inventory Management System
 
 **C# • WinForms**
 
-Desktop inventory management software supporting customers, products, orders, reporting, and JSON persistence.
+Desktop inventory software featuring:
+
+- Product Management
+- Customer Management
+- Orders
+- Reports
+- JSON Persistence
 
 🔗 https://github.com/faresQ7h/business-inventory-management-app-winforms-csharp
 
 ---
 
-## 🛠️ Technology Stack
+# 🛠 Technology Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css,dotnet,git,github,linux,postgres,azure,docker,vscode&perline=7"/>
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,bash" />
+</p>
+
+**SQL**
+
+---
+
+### 🌐 Web
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ---
 
-## 📖 Currently Learning
+### ⚙️ Backend
 
-- 🌐 Cisco CCNA
-- ☁️ Microsoft Azure
-- 🐳 Docker
-- ⚙️ GitHub Actions
-- 🔄 CI/CD
-- 🌍 Computer Networking
+- ASP.NET Core
+- REST APIs
+- HTTP/HTTPS
+- API Integration
+- Client-Server Architecture
 
 ---
 
-## 📊 GitHub Statistics
+### 🗄 Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+
+- Relational Database Design
+- ER Modeling
+- Normalization
+- SQL Joins
+- Aggregations
+- Subqueries
+
+---
+
+### 📦 Data Formats
+
+- JSON
+- XML
+
+---
+
+### 🐧 Linux & Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+- POSIX
+- Shell Scripting
+- SSH
+- Process Management
+- File I/O
+
+---
+
+### ☁️ Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=azure,docker,githubactions" />
+</p>
+
+- Cloud Fundamentals
+- Azure App Services
+- Deployment & Hosting
+
+---
+
+### 🛠 Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+</p>
+
+- Pull Requests
+- Code Reviews
+- Agile/Scrum
+- Virtual Machines
+- gdb
+- Valgrind
+
+---
+
+### 🌍 Networking
+
+- TCP/IP Fundamentals
+- Computer Networking
+- Cisco CCNA (In Progress)
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=faresQ7h&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=faresQ7h&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faresQ7h&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=faresQ7h&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faresQ7h&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
+
+# 🌍 Languages
+
+- 🇪🇬 Arabic — Native
+- 🇬🇧 English — Professional Working Proficiency
+
+---
+
+# 🤝 Let's Connect
+
+🌐 Portfolio  
+https://faresm.dev
+
+💼 LinkedIn  
+https://www.linkedin.com/in/fares-mohamed-it/
+
+📧 Email  
+hello@faresm.dev
+
+---
+
+# 🎯 Open to Opportunities
+
+I'm currently seeking **Software Engineering Internships** and **Student Opportunities** in:
+
+- Backend Development
+- Cloud Computing
+- Systems Programming
+- AI Engineering
+
+I'm always excited to collaborate on meaningful projects, learn new technologies, and contribute to real-world software.
+
+---
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=faresQ7h&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-## 🌍 Languages
-
-- 🇪🇬 **Arabic** — Native
-- 🇬🇧 **English** — Professional Working Proficiency
-
----
-
-## 🤝 Let's Connect
-
-🌐 **Portfolio**  
-**https://faresm.dev**
-
-💼 **LinkedIn**  
-**https://www.linkedin.com/in/fares-mohamed-it/**
-
-📧 **Email**  
-**hello@faresm.dev**
-
----
-
-## 🎯 Open to Opportunities
-
-I'm currently seeking software engineering internships and student opportunities in **Backend Development**, **Cloud Computing**, **Systems Programming**, and **AI**, where I can contribute, continue learning, and grow as a software engineer.
-
----
-
-<div align="center">
-
-### Building reliable software through continuous learning and practical engineering.
 
 ⭐ Thanks for visiting my profile!
 
-</div>
+</p>
