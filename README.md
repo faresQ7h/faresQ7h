@@ -175,10 +175,6 @@ Desktop application for managing products, customers, and orders, with reporting
 <img height="170em" src="https://streak-stats.demolab.com?user=faresQ7h&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img width="420" src="https://github-stats-extended.vercel.app/api/top-langs/?username=faresQ7h&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
-
 ---
 
 ### 🤝 Let's Connect
