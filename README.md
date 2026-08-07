@@ -23,12 +23,9 @@ Informatics student building reliable backend software, systems tools, and cloud
 
 ### 👨‍💻 About Me
 
-- 🎓 Informatics student at the **Czech University of Life Sciences Prague (CZU)** — 120/180 ECTS completed, expected graduation 2027
-- 🧑‍🔧 Currently in the project-based software engineering program at **42 Prague**, working in C/C++ under strict peer-reviewed coding standards
-- ☁️ Built and deployed an **ASP.NET Core** app to **Microsoft Azure** through a fully automated **GitHub Actions CI/CD** pipeline secured with **OpenID Connect (OIDC)**
-- 🐧 Comfortable in Linux environments — systems programming, process management, debugging with `gdb` and `valgrind`
-- 📡 Currently deepening my knowledge of **computer networking**, **Docker**, and **cloud fundamentals** while preparing for the **CCNA** certification
-- 🌍 Arabic (native) · English (professional working proficiency)
+Informatics student splitting my time between CZU Prague and the systems-programming curriculum at 42 Prague. I like building things close to the metal — Linux, C, databases — and shipping them properly, like deploying an ASP.NET Core app to Azure through a real CI/CD pipeline. Right now I'm rounding out that foundation with networking (CCNA) and Docker.
+
+<p align="center"> 🎓 CZU Informatics, 2027 &nbsp;·&nbsp; 🧑‍🔧 42 Prague &nbsp;·&nbsp; 🐧 Linux & Systems &nbsp;·&nbsp; ☁️ Azure & CI/CD &nbsp;·&nbsp; 🌍 Arabic / English </p>
 
 ---
 
