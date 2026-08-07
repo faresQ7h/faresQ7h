@@ -239,14 +239,17 @@ Desktop inventory software featuring:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=faresQ7h&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=faresQ7h&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=faresQ7h&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faresQ7h&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=faresQ7h&theme=tokyonight&hide_border=true"/>
 
 </p>
 
+<p align="center">
+
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faresQ7h&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 ---
 
 # 🌍 Languages
