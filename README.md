@@ -106,7 +106,11 @@ Desktop application for managing products, customers, and orders, with reporting
 
 ### 🛠️ Tech Stack
 
-**Languages**
+<table>
+<tr><td>
+
+**🔤 Languages**
+<br>
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
@@ -115,38 +119,57 @@ Desktop application for managing products, customers, and orders, with reporting
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**Backend, Web & Cloud**
+</td></tr>
+<tr><td>
+
+**⚙️ Backend, Web & Cloud**
+<br>
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
 
-**Databases & Systems**
+</td></tr>
+<tr><td>
+
+**🗄️ Databases & Systems**
+<br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GNU Bash](https://img.shields.io/badge/POSIX-Shell-4EAA25?style=flat-square)
+![POSIX Shell](https://img.shields.io/badge/POSIX-Shell-4EAA25?style=flat-square)
 
-**Tools**
+</td></tr>
+<tr><td>
+
+**🧰 Tools**
+<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 
-**Currently Learning**
+</td></tr>
+<tr><td>
+
+**📡 Currently Learning**
+<br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![CCNA](https://img.shields.io/badge/Networking-CCNA_in_progress-orange?style=flat-square)
+
+</td></tr>
+</table>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=faresQ7h&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170em" src="https://github-stats-extended.vercel.app/api?username=faresQ7h&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"/>
 <img height="170em" src="https://streak-stats.demolab.com?user=faresQ7h&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faresQ7h&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="420" src="https://github-stats-extended.vercel.app/api/top-langs/?username=faresQ7h&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
