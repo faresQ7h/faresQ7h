@@ -102,9 +102,7 @@ Desktop application for managing products, customers, and orders, with reporting
 ---
 
 ### 🛠️ Tech Stack
-<table width="100%">
-  <tr>
-    <td align="center">
+<table width="100%"> <tr><td align="center">
 
 **🔤 Languages**
 
