@@ -186,12 +186,11 @@ Desktop application for managing products, customers, and orders, with reporting
 
 ### 🤝 Let's Connect
 
-<p align="center">
-<a href="https://faresm.dev"><img src="https://img.shields.io/badge/🌐_Portfolio-faresm.dev-1E5387?style=for-the-badge" /></a>
-<a href="https://www.linkedin.com/in/fares-mohamed-it/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:hello@faresm.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+🌐 **Portfolio**  
+https://faresm.dev
 
-<p align="center">
-<i>"Building reliable software through continuous learning and practical engineering."</i>
-</p>
+💼 **LinkedIn**  
+https://www.linkedin.com/in/fares-mohamed-it/
+
+📧 **Email**  
+hello@faresm.dev
